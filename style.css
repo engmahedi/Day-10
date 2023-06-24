@@ -1,0 +1,46 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.hero-text p{
+  font-weight: 300;
+  color: #ddd;
+  font-size: 18px;
+}
+.hero-text h2{
+  
+  font-size: 40px;
+}
+.hero-text button{
+  font-size: 20px;
+  transition: all 0.5s;
+}
+
+.hero-text button:hover{
+  background-color: transparent;
+}
+.navbar-toggler{
+  
+    background-color: #fff;
+  }
+
+.navbar-toggler:focus{
+box-shadow: none;
+}
+
+.trusted-area{
+  background-color: rgba(0, 0, 0, 0.219);
+}
+.trusted-area h6{
+  color: #cfcfcf;
+}
+
+
+
+
+
+
+
+
+
+
+
