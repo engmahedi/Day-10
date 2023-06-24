@@ -34,6 +34,15 @@ box-shadow: none;
   color: #cfcfcf;
 }
 
+.single-card{
+  background-color: #f8f8f8;
+  box-shadow: 3px 3px 5px #ddd;
+  width: 18rem;
+}
+
+.single-card h5{
+  font-size: 20px;
+}
 
 
 
