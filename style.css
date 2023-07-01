@@ -48,10 +48,58 @@ box-shadow: none;
   width: 95%;
 }
 
+.content-strategy{
+  height: 236px;
+  
+}
+
+.content-strategy .text{
+  width: 50%;
+  top: 30%;
+  left: 10%;
+  
+}
+
+.content-strategy .start-btn{
+  width: 50%;
+  top: 40%;
+  right: 0;
+  
+}
 
 
 
+.footer-section{
+  background-color: #131121;
+}
+.footer-section p{
+  font-size: 20px;
+  font-weight: 300;
+}
 
 
+@media only screen and (max-width: 768px){
+  .content-strategy .text{
+    width: 100%;
+    top: 15%;
+    
+  }
+  
+  .content-strategy .start-btn{
+    width: 100%;
+    top: 70%;
+    
+  }
+  
+  
+}
 
+@media only screen and (max-width: 450px){
+  .hero-text h2{
+    font-size: 30px;
+  }
+  .hero-text p{
+    font-size: 14px;
+  }
 
+}
